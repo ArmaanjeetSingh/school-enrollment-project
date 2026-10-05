@@ -1,0 +1,19 @@
+# Python / FastAPI
+backend/.env
+backend/__pycache__/
+backend/venv/
+backend/.venv/
+*.pyc
+
+# React / Node
+frontend/.env
+frontend/.env.local
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+backend/app/.env
+*.env
