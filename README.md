@@ -129,8 +129,8 @@ Ensure the following tools and runtimes are installed locally:
 Clone the project repository and move into the workspace directory:
 
 ```bash
-git clone https://github.com/armaanjeetsingh/school-enrollment-fullstack.git
-cd school-enrollment-fullstack
+git clone https://github.com/armaanjeetsingh/school-enrollment-project.git
+cd school-enrollment-project
 
 
 2. Backend Setup (FastAPI)
